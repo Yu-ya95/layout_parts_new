@@ -21,6 +21,11 @@
   background-color: #e6f2ff;
 }
 
+
+.q6-2_wrapper {
+  display: table;
+}
+
 .q6-2_top {
   width: 300px;
   height: 200px;
@@ -45,6 +50,7 @@
   padding: 10px;
   background-color: #fff;
 }
+
 
 .q6-3_left {
   position: relative;
