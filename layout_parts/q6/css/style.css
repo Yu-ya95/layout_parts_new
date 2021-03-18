@@ -52,11 +52,11 @@
 }
 
 
-.q6-3_left {
+.q6-3_wrapper {
   position: relative;
 }
 
-.q6-3_left-inner {
+.q6-3_left {
   position: absolute;
   top: 0;
   left: 0;
@@ -66,10 +66,6 @@
 }
 
 .q6-3_right {
-  position: relative;
-}
-
-.q6-3_right-inner {
   position: absolute;
   top: 50%;
   left: 50%;
