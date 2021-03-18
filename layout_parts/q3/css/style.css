@@ -6,15 +6,15 @@ table {
   table-layout: fixed;
 }
 
-tr:nth-child(odd) td {
+.contents tr:nth-child(odd) td {
   background-color: #ecf1f2;
 }
 
-tr:last-child {
+.contents tr:last-child {
   border-top: 2px dashed #000;
 }
 
-th {
+.contents th {
   padding: 10px 0;
   font-size: 18px;
   line-height: 26px;
@@ -23,7 +23,7 @@ th {
   background-color: #2244aa;
 }
 
-td {
+.contents td {
   padding: 10px 0;
   font-size: 16px;
   line-height: 22px;
