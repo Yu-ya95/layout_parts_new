@@ -6,11 +6,11 @@ table {
   table-layout: fixed;
 }
 
-.contents tr:nth-child(odd) td {
+.content tr:nth-child(even) td {
   background-color: #ecf1f2;
 }
 
-.contents tr:last-child {
+.content tr:last-child {
   border-top: 2px dashed #000;
 }
 
